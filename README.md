@@ -11,7 +11,7 @@ Este proyecto  funciona con Java 11
 
 La documentación y endpoints de este micro servicio pueden ser revisados en su link de documentación:
 http://localhost:8080/talataa/swagger-ui.html#/movie-controler-rest (local) o web en
-http://ec2-54-89-100-20.compute-1.amazonaws.com/talataa/swagger-ui.html#/movie-controler-rest
+http://ec2-18-212-37-75.compute-1.amazonaws.com/talataa/swagger-ui.html#/movie-controler-rest
 
 
 
